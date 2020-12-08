@@ -1,5 +1,6 @@
 import java.util.Iterator;
 
+//об этом ли речь?
 public class KeysIterable<A> implements Iterable<A> {
     A[] elements;
     int nElements;
